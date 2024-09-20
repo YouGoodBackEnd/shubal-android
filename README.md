@@ -1,10 +1,8 @@
 # shubal-android
-세상의 모든 신발 정보 : 슈-발
+세상의 모든 신발 정보 : SHOES-__-_OF. WORLD
 
 
 
-https://github.com/user-attachments/assets/f136a97a-921a-4fa3-a832-17ee41c5ebeb
 
-
-
+![image](https://github.com/user-attachments/assets/8f53e230-89d0-489f-9cb3-bebd14a19f7c)
 
