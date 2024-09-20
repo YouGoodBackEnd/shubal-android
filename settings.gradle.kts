@@ -1,12 +1,7 @@
 pluginManagement {
+    includeBuild("build-logic")
     repositories {
-        google {
-            content {
-                includeGroupByRegex("com\\.android.*")
-                includeGroupByRegex("com\\.google.*")
-                includeGroupByRegex("androidx.*")
-            }
-        }
+        google()
         mavenCentral()
         gradlePluginPortal()
     }
@@ -20,5 +15,12 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "shubal"
+
 include(":app")
- 
+include(":core:data")
+include(":core:domain")
+include(":core:analytics")
+include(":core:designsystem")
+include(":core:testing")
+include(":core:common")
+include(":feature:home")
